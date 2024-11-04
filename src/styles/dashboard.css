@@ -1,0 +1,16 @@
+.dashboard-content{
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.dashboard h1{
+  padding: 20px;
+}
+.chart{
+  width: 50%;
+}
+.calendar{
+  padding: 20px;
+}
+
+

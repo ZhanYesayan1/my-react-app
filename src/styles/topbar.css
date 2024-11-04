@@ -1,0 +1,31 @@
+.topbar {
+  background-color: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+  width: 100%;
+}
+
+.topbar .search-box {
+  padding: 10px 20px;
+}  
+  .search-box input {
+  width: 300px;
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  font-size: 14px;
+  color: #333;
+  outline: none;
+  
+  }
+  
+  .user-info {
+    display: flex;
+    align-items: center;
+  }
+  
+
+  .user-info span {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
