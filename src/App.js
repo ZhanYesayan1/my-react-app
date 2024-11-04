@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes, Navigate, useLocation } from 'react-router-dom';
 import { SignedIn, SignedOut, SignIn} from "@clerk/clerk-react";
 import Sidebar from './components/sidebar';
-import Product from './components/product'; // Use Product if the file is named product.js
+import Product from './components/product'; 
 import Dashboard from './components/dashboard';
 import Topbar from './components/topbar';
 import Sales_Report from './components/Sales_Report';
